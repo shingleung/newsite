@@ -1,1 +1,1 @@
-const text = new SplitType("#target", {types: "lines, words"});
+const text = new SplitType("#target", { types: "lines, words" });
