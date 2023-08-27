@@ -1,0 +1,1 @@
+const text = new SplitType("#target", {types: "words, chars"});
